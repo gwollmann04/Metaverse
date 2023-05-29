@@ -1,6 +1,6 @@
 ## General information:
 
-Project made during a course using NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
+Project made during a course using React, NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
 
@@ -12,6 +12,7 @@ In addition, the application was also deployed on Netlify, you can access it thr
 
 ## 🛠 Technologies
 
+- [React](https://react.dev/)
 - [Next.JS](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com)
