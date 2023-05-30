@@ -9,6 +9,7 @@ This project was created with the idea of ​​using and learning a little abou
 In addition, the application was also deployed on Netlify, you can access it through the link:
 
 - [Metaverse](https://gwollmannmetaverse.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=ugCN_gynFYw&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
